@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/whatstarwebshow)
+** Channel:** [MOVIES CHANNEL](https://t.me/whatstarwebshow)
 
 ** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
 """
